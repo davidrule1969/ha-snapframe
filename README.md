@@ -4,7 +4,7 @@
 
 ### Turn your old iPad or tablet into a smart photo frame for Home Assistant.
 
-![SnapFrame]([docs/images/snapframe-preview.jpg](https://github.com/emo546/ha-snapframe/blob/main/IMG_1191.gif))
+![SnapFrame](https://github.com/emo546/ha-snapframe/blob/main/IMG_1191.gif)
 
 **SnapFrame** turns an old tablet or iPad into a beautiful, always-on digital photo frame connected to your Home Assistant.
 
