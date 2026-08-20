@@ -56,7 +56,6 @@ ports:
   8099/tcp: 8099
 ports_description:
   8099/tcp: "SnapFrame slideshow web interface"
-devices: []
 full_access: true
 apparmor: false
 privileged:
